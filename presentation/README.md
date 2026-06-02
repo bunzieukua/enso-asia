@@ -1,1 +1,1 @@
-In this folder you will find how I presented the analyzed data! Also take some time to play around with the interactive map for ENSO 2023-2024 :)!
+In this folder you will find how I presented the analyzed data! Also take some time to play around with the interactive map for ENSO 2023-2024 by downloading the enso_2023_2024.html file and view it on your local computer :)! 
